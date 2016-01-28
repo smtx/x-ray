@@ -163,6 +163,7 @@ function Xray() {
     }
 
     function load(html, url) {
+      if ( !html ) return false;
       var $ = html.html ? html : cheerio.load(html);
       if (url) $ = absolutes(url, $);
       return $;
