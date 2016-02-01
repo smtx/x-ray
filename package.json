@@ -1,5 +1,5 @@
 {
-  "name": "x-ray",
+  "name": "smtx-ray",
   "version": "2.0.3",
   "description": "structure any website",
   "keywords": [
@@ -10,10 +10,10 @@
     "api",
     "structure"
   ],
-  "author": "Matthew Mueller <matt@lapwinglabs.cm>",
+  "author": "Sebastian Rios <seba.rios@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lapwinglabs/x-ray.git"
+    "url": "git://github.com/smtx/x-ray.git"
   },
   "main": "index.js",
   "dependencies": {
